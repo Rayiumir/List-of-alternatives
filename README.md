@@ -27,6 +27,14 @@ Introducing the site and alternative software
         <a href="https://supabase.com/">Supabase</a>
       </td>
     </tr>
+    <tr>
+      <td>
+        Chatgpt - Claude and ...
+      </td>
+      <td>
+        <a href="https://chat.deepseek.com/">Deepseek</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
