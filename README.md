@@ -35,6 +35,14 @@ Introducing the site and alternative software
         <a href="https://chat.deepseek.com/">Deepseek</a>
       </td>
     </tr>
+    <tr>
+      <td>
+        Gmail - Outlook - Yahoo Mail and ...
+      </td>
+      <td>
+        <a href="https://proton.me/mail">Proton Mail</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
